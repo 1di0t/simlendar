@@ -1,0 +1,35 @@
+html {}
+
+body {
+    background-color: #ebf5f5;
+    justify-items: center;
+    align-items: center;
+}
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header {
+    border-radius: 7px;
+    height: 60px;
+    width: 1300px;
+    display: flex;
+    background-color: #e1f0f0;
+}
+
+div {
+    width: 100px;
+    height: 70px;
+    background-color: #ebf5f5;
+}
+
+.selectBox {
+    background-color: #baeaea;
+    width: 1300px;
+    height: 100vh;
+}
+
+img {}
